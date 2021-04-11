@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "C:\\Users\\Mbouopda\\source\\repos\\inventory\\inventory",
+      "project": ""
+    },
+    {
+      "type": "mixed",
+      "name": "C:\\Users\\Mbouopda\\source\\repos\\inventory\\inventory(1)",
+      "project": ""
+    }
+  ]
+}

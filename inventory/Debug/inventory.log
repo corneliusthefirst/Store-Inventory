@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+c:\users\mbouopda\source\repos\inventory\inventory\myform2.h(450): warning C4101: 'myReader': unreferenced local variable
+c:\users\mbouopda\source\repos\inventory\inventory\myform1.h(1052): warning C4101: 'myReader': unreferenced local variable
+c:\users\mbouopda\source\repos\inventory\inventory\myform.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+c:\users\mbouopda\source\repos\inventory\inventory\myform2.h(450): warning C4101: 'myReader': unreferenced local variable
+c:\users\mbouopda\source\repos\inventory\inventory\myform1.h(1052): warning C4101: 'myReader': unreferenced local variable
+  MyForm2.cpp
+c:\users\mbouopda\source\repos\inventory\inventory\myform2.h(450): warning C4101: 'myReader': unreferenced local variable
+c:\users\mbouopda\source\repos\inventory\inventory\myform1.h(1052): warning C4101: 'myReader': unreferenced local variable
+  MyForm3.cpp
+c:\users\mbouopda\source\repos\inventory\inventory\myform2.h(450): warning C4101: 'myReader': unreferenced local variable
+c:\users\mbouopda\source\repos\inventory\inventory\myform1.h(1052): warning C4101: 'myReader': unreferenced local variable
+  Generating Code...
+  inventory.vcxproj -> C:\Users\Mbouopda\source\repos\inventory\Debug\inventory.exe
